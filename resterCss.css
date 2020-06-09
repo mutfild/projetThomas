@@ -46,3 +46,17 @@ h1 {
 	font-weight: bold; 
 }
 
+aside { 
+	position: fixed; 
+	top:0px ; 
+	right : 10px; 
+	width: 20%; 
+	background-image:url(https://i.pinimg.com/236x/ed/22/64/ed2264c70e109e7a54737cd7d8613777--paper-texture-old-paper.jpg); 
+	background-position:center;
+	text-align: justify; 
+ 	border-radius: 5px;  
+	padding: 10px;  
+	color: white;  
+	font-size: 1em; 
+}
+
