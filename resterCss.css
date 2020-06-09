@@ -35,6 +35,15 @@ h1 {
 	text-shadow:2px 2px 2px #000000;
 }
 
+
+#page2 {
+	font-family: 'Metal Mania', cursive;
+	color : #ffffff;
+	text-shadow : 2px 2px 2px #000000;
+	font-style : Trattatello ;
+	font-size: 2em; float: left; 
+	font-weight: bold; 
+}
 aside { 
 	position: fixed; 
 	top:0px ; 
@@ -49,16 +58,5 @@ aside {
 	font-size: 1em; 
 }
 
-
-/* Le menu positionné à gauche, largeur fixe*/
-
-#page2 {
-	font-family: 'Metal Mania', cursive;
-	color : #ffffff;
-	text-shadow : 2px 2px 2px #000000;
-	font-style : Trattatello ;
-	font-size: 2em; float: left; 
-	font-weight: bold; 
-}
 
 
