@@ -30,7 +30,7 @@ body {
 /* Les titres et chapitres*/
 h1 { 
 	text-align:center; 
-	font-size: 2em;
+	font-size: 5em;
 	color: #ffffff; 
 	text-shadow:10px 10px 2px #000000;
 }
